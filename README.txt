@@ -1,3 +1,5 @@
+I, Qwerfjkl, have updated this repository at https://gitlab.wikimedia.org/toolforge-repos/missingredirectsproject. This serves as an archive of NickJ's work.
+
 #############
 ### When ####
 #############
